@@ -2,7 +2,8 @@
 namespace App;
 
 class Calculator
-{
+{   
+    public $operator;
     public function __construct($operator){
         $this->operator = $operator;
     }
