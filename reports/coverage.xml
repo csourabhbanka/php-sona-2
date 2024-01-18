@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1705567372">
-  <project timestamp="1705567372">
+<coverage generated="1705568403">
+  <project timestamp="1705568403">
     <file name="/Users/sbanka/php-sona-2/src/Calculator.php">
       <class name="App\Calculator" namespace="global">
         <metrics complexity="5" methods="5" coveredmethods="4" conditionals="0" coveredconditionals="0" statements="6" coveredstatements="5" elements="11" coveredelements="9"/>
